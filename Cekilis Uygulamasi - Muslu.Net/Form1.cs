@@ -58,6 +58,7 @@ namespace Cekilis_Uygulamasi___Muslu.Net
                             {
                                 yedek.Items.Add(isimler.Lines.GetValue(tut).ToString());
                             }
+                            else j--;
                         }
                         else j--;
                     }

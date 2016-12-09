@@ -14,3 +14,11 @@ F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.N
 F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.csproj.GenerateResource.Cache
 F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.exe
 F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.pdb
+C:\Users\anonymous\Documents\GitHub\Muslu-Cekilis-Uygulamasi\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.exe
+C:\Users\anonymous\Documents\GitHub\Muslu-Cekilis-Uygulamasi\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.pdb
+C:\Users\anonymous\Documents\GitHub\Muslu-Cekilis-Uygulamasi\Cekilis Uygulamasi - Muslu.Net\bin\Debug\Cekilis Uygulamasi - Muslu.Net.exe
+C:\Users\anonymous\Documents\GitHub\Muslu-Cekilis-Uygulamasi\Cekilis Uygulamasi - Muslu.Net\bin\Debug\Cekilis Uygulamasi - Muslu.Net.pdb
+C:\Users\anonymous\Documents\GitHub\Muslu-Cekilis-Uygulamasi\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.csprojResolveAssemblyReference.cache
+C:\Users\anonymous\Documents\GitHub\Muslu-Cekilis-Uygulamasi\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis_Uygulamasi___Muslu.Net.Form1.resources
+C:\Users\anonymous\Documents\GitHub\Muslu-Cekilis-Uygulamasi\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis_Uygulamasi___Muslu.Net.Properties.Resources.resources
+C:\Users\anonymous\Documents\GitHub\Muslu-Cekilis-Uygulamasi\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.csproj.GenerateResource.Cache

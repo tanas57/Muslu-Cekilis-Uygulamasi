@@ -40,12 +40,12 @@
             this.cek = new System.Windows.Forms.Button();
             this.asil1 = new System.Windows.Forms.ListBox();
             this.sadeceAsil = new System.Windows.Forms.GroupBox();
-            this.AsilveYedek = new System.Windows.Forms.GroupBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.asil2 = new System.Windows.Forms.ListBox();
-            this.yedek = new System.Windows.Forms.ListBox();
             this.label5 = new System.Windows.Forms.Label();
+            this.AsilveYedek = new System.Windows.Forms.GroupBox();
+            this.yedek = new System.Windows.Forms.ListBox();
+            this.asil2 = new System.Windows.Forms.ListBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.say = new System.Windows.Forms.Timer(this.components);
             this.bekleBakalim = new System.Windows.Forms.GroupBox();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
@@ -136,7 +136,7 @@
             this.cek.Location = new System.Drawing.Point(147, 44);
             this.cek.Name = "cek";
             this.cek.Size = new System.Drawing.Size(96, 36);
-            this.cek.TabIndex = 7;
+            this.cek.TabIndex = 5;
             this.cek.Text = "Çekiliş Yap";
             this.cek.UseVisualStyleBackColor = true;
             this.cek.Click += new System.EventHandler(this.cek_Click);
@@ -162,6 +162,16 @@
             this.sadeceAsil.TabStop = false;
             this.sadeceAsil.Text = "Asil Liste";
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Chaparral Pro", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label5.Location = new System.Drawing.Point(109, 22);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(84, 18);
+            this.label5.TabIndex = 9;
+            this.label5.Text = "Asil Kişi(ler)";
+            // 
             // AsilveYedek
             // 
             this.AsilveYedek.Controls.Add(this.yedek);
@@ -175,25 +185,15 @@
             this.AsilveYedek.TabStop = false;
             this.AsilveYedek.Text = "Asil ve Yedek";
             // 
-            // label3
+            // yedek
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Chaparral Pro", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label3.Location = new System.Drawing.Point(25, 22);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(84, 18);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "Asil Kişi(ler)";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Chaparral Pro", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label4.Location = new System.Drawing.Point(190, 22);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(97, 18);
-            this.label4.TabIndex = 1;
-            this.label4.Text = "Yedek Kişi(ler)";
+            this.yedek.Font = new System.Drawing.Font("Poor Richard", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.yedek.FormattingEnabled = true;
+            this.yedek.ItemHeight = 19;
+            this.yedek.Location = new System.Drawing.Point(163, 43);
+            this.yedek.Name = "yedek";
+            this.yedek.Size = new System.Drawing.Size(147, 156);
+            this.yedek.TabIndex = 3;
             // 
             // asil2
             // 
@@ -205,25 +205,25 @@
             this.asil2.Size = new System.Drawing.Size(147, 156);
             this.asil2.TabIndex = 2;
             // 
-            // yedek
+            // label4
             // 
-            this.yedek.Font = new System.Drawing.Font("Poor Richard", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.yedek.FormattingEnabled = true;
-            this.yedek.ItemHeight = 19;
-            this.yedek.Location = new System.Drawing.Point(163, 43);
-            this.yedek.Name = "yedek";
-            this.yedek.Size = new System.Drawing.Size(147, 156);
-            this.yedek.TabIndex = 3;
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Chaparral Pro", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label4.Location = new System.Drawing.Point(190, 22);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(97, 18);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "Yedek Kişi(ler)";
             // 
-            // label5
+            // label3
             // 
-            this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Chaparral Pro", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
-            this.label5.Location = new System.Drawing.Point(109, 22);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(84, 18);
-            this.label5.TabIndex = 9;
-            this.label5.Text = "Asil Kişi(ler)";
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Chaparral Pro", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(162)));
+            this.label3.Location = new System.Drawing.Point(25, 22);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(84, 18);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "Asil Kişi(ler)";
             // 
             // say
             // 
