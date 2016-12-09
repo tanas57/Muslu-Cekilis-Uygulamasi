@@ -1,0 +1,16 @@
+c:\users\muslu5\documents\visual studio 2010\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\bin\Debug\Cekilis Uygulamasi - Muslu.Net.exe
+c:\users\muslu5\documents\visual studio 2010\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\bin\Debug\Cekilis Uygulamasi - Muslu.Net.pdb
+c:\users\muslu5\documents\visual studio 2010\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis_Uygulamasi___Muslu.Net.Form1.resources
+c:\users\muslu5\documents\visual studio 2010\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis_Uygulamasi___Muslu.Net.Properties.Resources.resources
+c:\users\muslu5\documents\visual studio 2010\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.csproj.GenerateResource.Cache
+c:\users\muslu5\documents\visual studio 2010\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.exe
+c:\users\muslu5\documents\visual studio 2010\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.pdb
+C:\Users\Muslu5\documents\visual studio 2010\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.csprojResolveAssemblyReference.cache
+F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\bin\Debug\Cekilis Uygulamasi - Muslu.Net.exe
+F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\bin\Debug\Cekilis Uygulamasi - Muslu.Net.pdb
+F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.csprojResolveAssemblyReference.cache
+F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis_Uygulamasi___Muslu.Net.Form1.resources
+F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis_Uygulamasi___Muslu.Net.Properties.Resources.resources
+F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.csproj.GenerateResource.Cache
+F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.exe
+F:\PROJELER\Projects\Cekilis Uygulamasi - Muslu.Net\Cekilis Uygulamasi - Muslu.Net\obj\x86\Debug\Cekilis Uygulamasi - Muslu.Net.pdb
